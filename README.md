@@ -133,10 +133,11 @@ elastic-siem-detection-lab/
 ├── MITRE_COVERAGE.md
 ├── lab-setup.md
 ├── rules/
-│   ├── ssh_brute_force.json
-│   ├── port_scan_detection.json
-│   ├── root_login_attempt.json
-│   └── new_user_created.json
+│   ├── rules.md
+│       ├── ssh_brute_force.json
+│       ├── port_scan_detection.json
+│       ├── root_login_attempt.json
+│       └── new_user_created.json     
 ├── screenshots/
 │   ├── screenshots.md
 └── attack-simulations/
