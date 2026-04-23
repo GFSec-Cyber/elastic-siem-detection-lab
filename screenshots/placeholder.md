@@ -1,7 +1,7 @@
 Created SIEM VM
 <img width="796" height="636" alt="Created SIEM VM" src="https://github.com/user-attachments/assets/a1dbd014-0cb5-437b-817e-f7208ebd8a7e" />
 
-Created EP and Pinged SIEM
+Created Endpoint and Pinged SIEM
 <img width="1286" height="837" alt="Created EP and Pinged SIEM" src="https://github.com/user-attachments/assets/7eda91de-6eb0-4e23-b50d-09737b3e656c" />
 
 Elasticsearch Kibana Kogstash | all active
