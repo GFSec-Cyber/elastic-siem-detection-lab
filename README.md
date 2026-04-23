@@ -138,16 +138,7 @@ elastic-siem-detection-lab/
 │   ├── root_login_attempt.json
 │   └── new_user_created.json
 ├── screenshots/
-│   ├── alerts_firing.png
-│   ├── security_rules_created.png
-│   ├── ssh_brute_force_rule.png
-│   ├── root_login_rule.png
-│   ├── port_scan_rule.png
-│   ├── new_user_rule.png
-│   ├── hydra_attack.png
-│   ├── nmap_scan.png
-│   ├── kibana_discover_logs.png
-│   └── elasticsearch_kibana_logstash_active.png
+│   ├── screenshots.md
 └── attack-simulations/
 └── simulation_playbook.md
 ```
