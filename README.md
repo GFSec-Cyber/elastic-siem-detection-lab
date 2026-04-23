@@ -132,10 +132,10 @@ elastic-siem-detection-lab/
 ├── MITRE_COVERAGE.md
 ├── lab-setup.md
 ├── rules/
-│   ├── ssh_brute_force.ndjson
-│   ├── port_scan_detection.ndjson
-│   ├── root_login_attempt.ndjson
-│   └── new_user_created.ndjson
+│   ├── ssh_brute_force.json
+│   ├── port_scan_detection.json
+│   ├── root_login_attempt.json
+│   └── new_user_created.json
 ├── screenshots/
 │   ├── alerts_firing.png
 │   ├── security_rules_created.png
@@ -148,12 +148,12 @@ elastic-siem-detection-lab/
 │   ├── kibana_discover_logs.png
 │   └── elasticsearch_kibana_logstash_active.png
 └── attack-simulations/
-    └── simulation_playbook.md
+└── simulation_playbook.md
 
 ---
 
 ## Author
 
-Garrett Fegley
-CompTIA Security+
-[https://linkedin.com/in/garrett_fegley](https://www.linkedin.com/in/garrettfegley/)
+**Garrett Fegley**  
+CompTIA Security+  
+[LinkedIn](https://linkedin.com/in/garrett_fegley) · [GitHub](https://github.com/gfsec)
