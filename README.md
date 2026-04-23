@@ -127,6 +127,7 @@ matching.
 
 ## Repository structure
 
+```
 elastic-siem-detection-lab/
 ├── README.md
 ├── MITRE_COVERAGE.md
@@ -149,6 +150,8 @@ elastic-siem-detection-lab/
 │   └── elasticsearch_kibana_logstash_active.png
 └── attack-simulations/
 └── simulation_playbook.md
+```
+
 
 ---
 
