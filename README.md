@@ -156,4 +156,4 @@ elastic-siem-detection-lab/
 
 Garrett Fegley
 CompTIA Security+
-https://linkedin.com/in/[your-handle]
+[https://linkedin.com/in/garrett_fegley](https://www.linkedin.com/in/garrettfegley/)
